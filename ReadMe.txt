@@ -7,3 +7,4 @@ Golang JSON Syllabus:
 5. JSON Array (json_array_test.go)
 
 6. JSON Tag (json_tag_test.go)
+7. Map (map_test.go)
