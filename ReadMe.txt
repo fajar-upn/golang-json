@@ -9,3 +9,4 @@ Golang JSON Syllabus:
 6. JSON Tag (json_tag_test.go)
 7. Map (map_test.go)
 8. Streaming Decoder (streaming_decoder_test.go)
+8. Streaming Encoder (streaming_encoder_test.go)
